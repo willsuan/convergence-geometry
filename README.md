@@ -1,4 +1,4 @@
-# Convergence Geometry — Experimental Program
+# Convergence Geometry Experiment
 
 This package implements an experiment suite to study algorithmic properties of iterative solvers via convergence fields, aiming for scaling laws and universality that complement Newton–Kantorovich and complex-dynamical theory.
 
