@@ -51,13 +51,3 @@ Artifacts are written to `./theory_outputs/`:
 
 <img width="360" height="360" alt="field_basin_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/406f08f1-1a80-4060-9ca1-72dc86907a5d" />
 <img width="360" height="360" alt="field_iters_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/b29e7456-e93a-4d28-bff5-48edaa4911b5" />
-
-<img width="360" height="640" alt="ecdf_iters_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/bafe86b8-a013-4a08-b9b0-f610a5d87ed1" />
-<img width="360" height="640" alt="ecdf_p_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/7b4f459d-997c-4b53-816c-18275f9177de" />
-
-<img width="360" height="640" alt="ecdf_rfit_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/86043fec-7d72-4fcb-bb6a-a6d86746520d" />
-<img width="360" height="640" alt="binned_delta_p_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/73c9eae0-4ef1-4819-8fdb-0a735ac5c5b4" />
-
-<img width="360" height="640" alt="binned_delta_rfit_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/43f732b6-5fcb-4534-b50a-3e89f6139867" />
-<img width="360" height="640" alt="binned_d0_iters_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/7530a908-dad8-40ed-bb2b-c4aa3767bf3c" />
-
