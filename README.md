@@ -40,7 +40,7 @@ Artifacts are written to `./theory_outputs/`:
 - Precision line: repeat with `complex64` and look for a sharp degradation curve in $p$ as $\delta$ decreases.
 - Universality: attempt finite-size collapse by rescaling $\delta$ by degree-dependent factors.
 
-## Sample Images
+## Pretty Pictures
 - Degree 3, circle ensemble, Newton, λ=1.0, fp64 precision, 120×120 grid, 60 iterations
 
 <img width="360" height="360" alt="field_p_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/36a32d1f-5fa2-4f96-9d97-d4b58384a4ca" />
