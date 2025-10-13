@@ -44,20 +44,20 @@ Artifacts are written to `./theory_outputs/`:
 - Degree 3, circle ensemble, Newton, λ=1.0, fp64 precision, 120×120 grid, 60 iterations
 
 (a) Empirical order p
-Estimated convergence order per starting point z_0, computed from late-iteration residual ratios. Values approach the theoretical order (≈2 for Newton), with deviations near basin boundaries where convergence becomes irregular.
+Estimated convergence order per starting point $z_0$, computed from late-iteration residual ratios. Values approach the theoretical order ($≈2$ for Newton), with deviations near basin boundaries where convergence becomes irregular.
 <img width="360" height="360" alt="field_p_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/36a32d1f-5fa2-4f96-9d97-d4b58384a4ca" />
 
-(b) Contraction r_{\text{fit}}
-Least-squares fitted contraction factor measuring asymptotic linear rate per pixel. Smaller r_{\text{fit}} indicates faster convergence; oscillatory ring structures reveal zones of alternating attraction and repulsion around roots.
+(b) Contraction $r_{\text{fit}}$
+Least-squares fitted contraction factor measuring asymptotic linear rate per pixel. Smaller $r_{\text{fit}}$ indicates faster convergence; oscillatory ring structures reveal zones of alternating attraction and repulsion around roots.
 <img width="360" height="360" alt="field_rfit_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/8467bdea-81e5-405f-9f86-39ffe13d4151" />
 
 
-(c) Boundary distance \delta
+(c) Boundary distance $\delta$
 Euclidean distance from each initial point to the nearest basin boundary, estimating local conditioning. Low \delta identifies points close to the fractal boundary where convergence behavior becomes unstable.
 <img width="360" height="360" alt="field_delta_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/11095456-50ea-4019-b72f-bba9310de210" />
 
-(d) Nearest-root distance d_0
-Distance from each initial guess to the nearest true root of the polynomial. Provides a geometric baseline for conditioning: larger d_0 regions tend to exhibit slower convergence and smaller effective order.
+(d) Nearest-root distance $d_0$
+Distance from each initial guess to the nearest true root of the polynomial. Provides a geometric baseline for conditioning: larger $d_0$ regions tend to exhibit slower convergence and smaller effective order.
 <img width="360" height="360" alt="field_d0_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/895101f6-f70c-4864-9d64-0919754b7e62" />
 
 
