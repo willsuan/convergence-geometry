@@ -53,7 +53,7 @@ Least-squares fitted contraction factor measuring asymptotic linear rate per pix
 
 
 (c) Boundary distance $\delta$
-Euclidean distance from each initial point to the nearest basin boundary, estimating local conditioning. Low \delta identifies points close to the fractal boundary where convergence behavior becomes unstable.
+Euclidean distance from each initial point to the nearest basin boundary, estimating local conditioning. Low $\delta$ identifies points close to the fractal boundary where convergence behavior becomes unstable.
 <img width="360" height="360" alt="field_delta_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/11095456-50ea-4019-b72f-bba9310de210" />
 
 (d) Nearest-root distance $d_0$
