@@ -65,6 +65,7 @@ Distance from each initial guess to the nearest true root of the polynomial. Pro
 <img width="360" height="360" alt="field_d0_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/895101f6-f70c-4864-9d64-0919754b7e62" />
 
 
+
 (e) Basin (root index)
 Root-attraction partition of the complex plane. Each color represents convergence to a distinct root, revealing the characteristic fractal structure of Newton basins and intricate interleaving at boundary regions.
 
@@ -72,4 +73,5 @@ Root-attraction partition of the complex plane. Each color represents convergenc
 
 (f) Iterations to converge
 Number of iterations required to satisfy the convergence criterion. Smooth interior regions converge quickly; intricate filaments near the boundaries demand many more iterations, reflecting sensitivity to initial conditions.
+
 <img width="360" height="360" alt="field_iters_circle_n3_newton_lam1 0_complex128_g120" src="https://github.com/user-attachments/assets/b29e7456-e93a-4d28-bff5-48edaa4911b5" />
