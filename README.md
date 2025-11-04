@@ -1,6 +1,6 @@
 # Convergence Geometry Experiment
 
-This package implements an experiment suite to study algorithmic properties of iterative solvers via convergence fields, aiming for scaling laws and universality that complement Newton–Kantorovich and complex-dynamical theory.
+This repo implements experimental code to study algorithmic properties of iterative solvers via convergence fields, aiming for scaling laws and universality that complement Newton–Kantorovich and complex-dynamical theory.
 
 ## Motivation (theory)
 - Newton–Kantorovich & α-theory: provide sufficient (local) convergence conditions. We map empirical order $p$ and contractivity $r$ outside guaranteed regions and calibrate α-like proxies.
